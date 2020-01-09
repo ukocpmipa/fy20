@@ -4,4 +4,4 @@ In this repo, you will find all the materials required to understand and perform
 
 ## Roadmap
 
-This repo will be updated to include the GTM version of the GBB assessment and guidance.
+This repo will be updated to include the GTM version of the MIPA assessment and guidance.
